@@ -10,7 +10,7 @@ A Next.js application demonstrating AI-assisted software development using the S
 
 This project follows a structured AI-driven Software Development Life Cycle using [SpecKit](https://github.com/github/spec-kit):
 
-![Spec Kit Workflow](./.specify/speckit-workflow.png)
+![Spec Kit Workflow](./public/spek-kit-wf.png)
 
 ### Workflow Overview
 
