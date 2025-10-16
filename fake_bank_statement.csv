@@ -1,0 +1,16 @@
+timestamp,type,description,status,amount USD,card,card holder name,original amount,original currency,cashback earned,category
+2025-10-01T08:15:32.123,card_spend,COFFEE BEAN CAFE         ,PENDING,4.75,1234,JOHN SMITH,1793.75,AMD,0.1425,5814 - Quick Payment Service-Fast Food Restaurants
+2025-10-02T14:22:18.456,card_spend,METRO SUPERMARKET        ,PENDING,23.45,1234,JOHN SMITH,8851.25,AMD,0.7035,5411 - Grocery Stores and Supermarkets
+2025-10-03T19:45:07.789,card_spend,PIZZA CORNER             ,PENDING,12.30,1234,JOHN SMITH,4643.5,AMD,0.369,5812 - Eating Places and Restaurants
+2025-10-05T10:30:44.234,card_spend,BOOK HAVEN               ,PENDING,18.90,1234,JOHN SMITH,7134,AMD,0.567,5942 - Book Stores
+2025-10-07T16:18:55.567,card_spend,FUEL STATION 24          ,PENDING,35.00,1234,JOHN SMITH,13212.5,AMD,1.05,5541 - Service Stations
+2025-10-08T09:12:29.890,card_spend,MORNING BAGEL SHOP       ,PENDING,6.20,1234,JOHN SMITH,2341,AMD,0.186,5814 - Quick Payment Service-Fast Food Restaurants
+2025-10-09T13:40:16.123,card_spend,PHARMACY PLUS            ,PENDING,15.60,1234,JOHN SMITH,5889,AMD,0.468,5912 - Drug Stores and Pharmacies
+2025-10-11T11:25:33.456,card_spend,FRESH MARKET             ,PENDING,28.75,1234,JOHN SMITH,10853.125,AMD,0.86,5411 - Grocery Stores and Supermarkets
+2025-10-13T20:05:42.789,card_spend,BURGER BISTRO            ,PENDING,14.50,1234,JOHN SMITH,5473.75,AMD,0.435,5812 - Eating Places and Restaurants
+2025-10-15T15:50:21.012,card_spend,TECH ACCESSORIES         ,PENDING,22.40,1234,JOHN SMITH,8456,AMD,0.672,5732 - Electronics Stores
+2025-10-17T08:35:09.345,card_spend,DOWNTOWN COFFEE          ,PENDING,5.10,1234,JOHN SMITH,1925.25,AMD,0.153,5814 - Quick Payment Service-Fast Food Restaurants
+2025-10-19T12:20:47.678,card_spend,CITY PHARMACY            ,PENDING,19.80,1234,JOHN SMITH,7473,AMD,0.594,5912 - Drug Stores and Pharmacies
+2025-10-22T17:55:14.901,card_spend,SUNSET DINER             ,PENDING,16.25,1234,JOHN SMITH,6134.375,AMD,0.4875,5812 - Eating Places and Restaurants
+2025-10-25T10:10:38.234,card_spend,QUICK MART               ,PENDING,11.90,1234,JOHN SMITH,4493.75,AMD,0.357,5411 - Grocery Stores and Supermarkets
+2025-10-27T14:42:55.567,card_spend,GREEN LEAF BOOKSHOP      ,PENDING,24.50,1234,JOHN SMITH,9248.75,AMD,0.735,5942 - Book Stores
